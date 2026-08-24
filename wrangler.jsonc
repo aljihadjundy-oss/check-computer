@@ -10,7 +10,7 @@
   },
   "d1_databases": [
     {
-      "binding": "check_computer_db",
+      "binding": "DB",
       "database_name": "check-computer-db",
       "database_id": "713464f3-c791-4346-947d-12f102006763"
     }
